@@ -1,0 +1,67 @@
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+Exception ignored in: <module 'threading' from '/usr/lib/python3.8/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 1388, in _shutdown
+    lock.acquire()
+  File "lib/farduino.py", line 255, in handler
+    sys.exit()
+SystemExit: 
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)
+:device(warning): /dev/input/event5 is not readable, some features will be unavailable.
+:device(warning): /dev/input/event6 is not readable, some features will be unavailable.
+Known pipe types:
+  glxGraphicsPipe
+(1 aux display modules not yet loaded.)

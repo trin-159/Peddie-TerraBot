@@ -1,0 +1,7 @@
+Connected and ready for interaction
+Traceback (most recent call last):
+  File "agents/interactive_agent.py", line 199, in <module>
+    rospy.sleep(1)
+  File "/opt/ros/noetic/lib/python3/dist-packages/rospy/timer.py", line 165, in sleep
+    raise rospy.exceptions.ROSInterruptException("ROS shutdown request")
+rospy.exceptions.ROSInterruptException: ROS shutdown request
